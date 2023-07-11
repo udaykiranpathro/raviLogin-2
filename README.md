@@ -1,3 +1,4 @@
+ii
 HELLO ALL 
 Hello friends 
 abdc dbs cbd
@@ -14,12 +15,6 @@ hbvbvbvhmvbbbnbnjbnbn
 jn cnmc cn nnc mcn nm
 c b dbw dnb cbd bd b sajb ddsmn dwmnmn
  cfnfd bndb fn ndbw 
- en ndv dn vvdbfcbcv 
-111111111111
-222222222222
-fjyfyuf
-ggfgyhfgjyf
-bgadvbasv. hdavchasvbhas
 http://52.195.0.15:8080/ vc vxz. hbxvcbhvcv cb cdhscvbhsbc
 B cbs cbas baxs cASB
 x xzb zb bx xz xzv
@@ -35,11 +30,9 @@ bs cbascnas
 bsdvxahsbc
 cb sbdn cnsa
 bsdvcbsdvcdbcdnasb
- xxn cnx cdx cndbdnbc,D
- CHCjcjQCJ
-c cb c cbds c
-cbsc abs casbc as
-csbc an
-cb zxb czxbczx
- xn xzn znx
-  xn nzx
+Name 
+address 
+phn number
+area
+state
+
