@@ -35,4 +35,7 @@ address
 phn number
 area
 state
+country 
+region 
+ascd
 
