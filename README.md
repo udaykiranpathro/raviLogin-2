@@ -41,4 +41,16 @@ ascd
 wrw
 wwr33
 wr2rr3
+
+dw
+
+w
+e2
+2
+e
+d
+2
+ed2
+d
+2d
 3r3
